@@ -1,0 +1,25 @@
+<svg width="608" height="1210" viewBox="0 0 608 1210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="608" y2="1210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#221513"/>
+      <stop offset="1" stop-color="#522014"/>
+    </linearGradient>
+  </defs>
+  <rect width="608" height="1210" fill="url(#bg1)"/>
+  <text x="180" y="65" fill="#F3E2D0" font-size="28" font-family="Arial" font-weight="700">VALUES &amp; PRINCIPLES</text>
+  <g fill="#7A3027" stroke="#BC7650" stroke-width="2">
+    <rect x="30" y="170" width="548" height="160" rx="38"/>
+    <rect x="30" y="350" width="548" height="160" rx="38"/>
+    <rect x="30" y="530" width="548" height="160" rx="38"/>
+    <rect x="30" y="710" width="548" height="160" rx="38"/>
+    <rect x="30" y="890" width="548" height="160" rx="38"/>
+  </g>
+  <g fill="#F8EDE0" font-size="24" font-family="Arial" font-weight="700">
+    <text x="150" y="265">Purpose</text>
+    <text x="150" y="445">What Matters Most</text>
+    <text x="150" y="625">Integrity</text>
+    <text x="150" y="805">Core Beliefs</text>
+    <text x="150" y="985">Shared Values</text>
+  </g>
+  <rect y="1130" width="608" height="80" fill="#211513"/>
+</svg>
